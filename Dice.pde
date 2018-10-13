@@ -45,7 +45,7 @@ class Die //draws one die
   void show()
   {
     //die background
-    fill(#FF2600);
+    fill(#FF0808);
     rect(dieX, dieY,48,48,7);
     
   }
